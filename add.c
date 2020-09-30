@@ -1,4 +1,5 @@
 #include <stdio.h> 
+#include <math,h>
   
 
 int sum_of_digit(int n) 
