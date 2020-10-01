@@ -16,6 +16,6 @@ int main()
 	printf("enter the number\n");
 	scanf("%d",&num);
     int result = sum_of_digit(num); 
-    printf("Sum of digits in %d is %d\n", num, result); 
+    printf("Sum Of Digits In %d Is %d\n", num, result); 
     return 0; 
 } 
